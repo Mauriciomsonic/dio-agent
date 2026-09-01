@@ -158,3 +158,23 @@ Termos como *agente*, *harness*, *skill* e *prompt* estão explicados com analog
 O DIO Agent foi criado para acompanhar você desde o início dos Bootcamps e Formações da DIO. A ideia é simples: aprender na era da IA fica mais fácil quando você tem um mentor disponível a qualquer hora.
 
 Bons estudos, e vem com a gente. 🚀
+
+
+# 📖 Do Pixel ao Gol — A Evolução dos Games de Futebol
+
+## 📒 Descrição
+Apresentação e material de estudo explorando a evolução tecnológica dos jogos de futebol digital: desde os primeiros blocos de *Pong* (1972) até o uso de Inteligência Artificial generativa, *Machine Learning* e *HyperMotion* no *EA SPORTS FC*.
+
+## 🤖 Tecnologias Utilizadas
+* **NotebookLM (Google):** Síntese de conteúdo, estruturação dos tópicos e geração dos slides/material de apresentação.
+* **ChatGPT / Copilot:** Elaboração do roteiro e engenharia de prompts.
+* **Canva / PPT:** Formatação visual e exportação do material final.
+
+## 🧐 Processo de Criação
+Utilizei o NotebookLM como assistente central de pesquisa e síntese para estruturar a linha do tempo dos games de futebol em slides claros e objetivos. Em seguida, refinei os conceitos de IA nos jogos modernos (como HyperMotion e FC IQ) para criar uma apresentação visual e informativa.
+
+## 🚀 Resultados
+* [Clique aqui para acessar o material de slides](./nome-do-seu-arquivo.pdf) *(coloque o nome exato do arquivo que você subiu)*
+
+## 💭 Reflexão (Natty or Not?)
+O NotebookLM se mostrou extremamente eficiente para transformar fontes brutas e notas em uma apresentação coerente e estruturada em poucos minutos, economizando tempo no design da informação.
